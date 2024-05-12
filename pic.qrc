@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>impa/1714960453785.jpg</file>
+        <file>impa/1714960469130.jpg</file>
+        <file>impa/1714960485247.jpg</file>
+        <file>impa/1.png</file>
+        <file>impa/2.png</file>
+        <file>impa/3.png</file>
+        <file>led_final/pic/1.png</file>
+        <file>led_final/pic/2.png</file>
+        <file>led_final/pic/3.png</file>
+        <file>led_final/pic/4.jpg</file>
+        <file>led_final/pic/5.jpg</file>
+        <file>led_final/pic/6.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>back.jpg</file>
+        <file>feng.png</file>
+        <file>fire.png</file>
+        <file>temp.png</file>
+        <file>back2.jpg</file>
+        <file>back3.png</file>
+        <file>back7.png</file>
+        <file>back8.png</file>
+    </qresource>
+</RCC>
